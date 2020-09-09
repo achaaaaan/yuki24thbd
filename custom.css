@@ -1,0 +1,33 @@
+/*
+* Custom Css 
+* Last Updated on 2020/05/09
+*/
+
+body {
+    background-color: white;
+}
+
+.nextToolMain {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.content {
+    margin-top: 10px;
+}
+
+.portfolio-top {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+
+/*
+.portfolio-modal-yoko {
+    width: 70%;
+}
+
+.portfolio-modal-tate {
+    height: 50%;
+}
+*/
